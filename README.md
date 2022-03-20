@@ -1,2 +1,2 @@
 # play-gta-5
-在GTA5自动驾驶车辆
+利用tensorflow训练的分类模型在GTA5自动控制车辆
